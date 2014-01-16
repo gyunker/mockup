@@ -16,7 +16,7 @@ User Stories and HTML Mockup Pages
 10. As a scholarship fund user, I want to build a profile page detailing the program.
 11. As a scholarship fun user, I want to connect with potential candidaates/recipients.
 
-Second Idea - Flash Cards: Learning Resource(s) / Tool(s)
+#Second Idea - Flash Cards: Learning Resource(s) / Tool(s)
 1. As a visitor, I would want to create an account
 2. As auser, I would want to create a learning asset (flash card)
 3. As a user, I would want to create an grouping of learning assets (deck of cards)
