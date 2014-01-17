@@ -27,3 +27,7 @@ User Stories and HTML Mockup Pages
 8. As a user, I would like to view other learning assets.
 9. As a user, I would like to find my friends (i.e. Facebook) that are also using this web app.
 10. 
+
+#Domain Model
+
+## 
